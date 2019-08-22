@@ -1,0 +1,3 @@
+hello my name is ayush .. 
+i am not so good ..
+i am trying to learn git...

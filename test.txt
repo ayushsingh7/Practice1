@@ -1,3 +1,9 @@
 hello my name is ayush .. 
 i am not so good ..
 i am trying to learn git...
+
+===========================
+
+I learned something interesting about pull and push ... add , diff , commit ,status , log...etc
+Enjoying..hahahah
+...
